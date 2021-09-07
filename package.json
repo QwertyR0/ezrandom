@@ -1,0 +1,21 @@
+{
+  "name": "ezrandom",
+  "version": "1.0.0",
+  "description": "Makes Random Number Generation Easier",
+  "main": "main.js",
+  "author": "Qwerty.R",
+  "license": "MIT",
+  
+  "keywords": [
+    "nodejs", "javascript", "dice", "node", "generator", "math", "password-generator", "random", "random-generation", "easy", "node-js", "dice-roller", "rand", "pseudorandom", "pseudo-random", "pseudo-random-generator", "possibly"
+  ],
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QwertyRcode/ezrandom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/QwertyRcode/ezrandom/issues"
+  },
+  "homepage": "https://github.com/QwertyRcode/ezrandom#readme"
+}
