@@ -1,4 +1,5 @@
 # ezrandom
+https://img.shields.io/badge/LICENSE-MIT-red
 const ezrandom is a simple random number generator.
 
 ```js
