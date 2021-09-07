@@ -71,10 +71,11 @@ module.exports = {
     },
     ranColor: {
         hex: () => {
-
+            return "#" + (Math.floor(Math.random() * 16777215) + 0).toString(16);
         },
         rgb: () => {
-            
+            let result = [(Math.floor(Math.random() * 255) + 0), Math.floor(Math.random() * 255) + 0, Math.floor(Math.random() * 255) + 0];
+            return result;
         }
     }
 }
