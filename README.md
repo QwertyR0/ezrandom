@@ -23,6 +23,15 @@ ezRandom.password({
 //-> naxohnjykom
 // I will Add More Options To Password Generation!
 
+//random rgb color value:
+
+ezRandom.ranColor.rgb()
+//-> [ 52, 7, 109 ]
+
+//random hex color value:
+ezRandom.ranColor.hex()
+//-> #a97b30
+
 ```
 
 # LICENSE: MIT
