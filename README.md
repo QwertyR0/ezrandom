@@ -1,6 +1,7 @@
 # ezrandom
-https://img.shields.io/badge/LICENSE-MIT-red
-const ezrandom is a simple random number generator.
+![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+)
+ezrandom is a simple random number generator.
 
 ```js
 const ezRandom = require('ezrandom');
