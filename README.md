@@ -1,6 +1,6 @@
 # ezrandom
-![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-)
+![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)[![CodeFactor](https://www.codefactor.io/repository/github/qwertyr0/ezrandom/badge)](https://www.codefactor.io/repository/github/qwertyr0/ezrandom)
+---
 ezrandom is a simple random number generator.
 
 ```js
