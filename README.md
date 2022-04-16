@@ -47,14 +47,10 @@ ezRandom.ranColor.hex();
 //-> #a97b30
 ```
 ## 🧙‍♂️**Maintainer**
-<center>
-
 >![QwertyR0](https://github.com/QwertyR0.png?size=100)
 >---
 >**QwertyR0**
-
-</center>
-
+    
 ---
 
 ## 🚧**Todo:**
