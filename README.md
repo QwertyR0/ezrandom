@@ -58,7 +58,7 @@ ezRandom.ranColor.hex();
 - Make .password() better
 
 ## 🐛**Bugs:**
-Create a issue [here](https://github.com/QwertyR0/ezrandom/issues)
+Create an issue [here](https://github.com/QwertyR0/ezrandom/issues)
 
 ## 📱**Contact:**
 Discord: Qwerty.R#9850
