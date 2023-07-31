@@ -1,6 +1,6 @@
 {
-  "name": "ezrandom",
-  "version": "2.0.2",
+  "name": "@qwertyr0/ezrandom",
+  "version": "2.1.0",
   "description": "Makes Random Number Generation Easier",
   "main": "main.js",
   "author": "QwertyR0",
@@ -32,7 +32,6 @@
     "url": "https://github.com/QwertyR0/ezrandom/issues"
   },
   "homepage": "https://github.com/QwertyR0/ezrandom#readme",
-  "dependencies": {
-    "axios": "^0.21.4"
-  }
+  "dependencies": {},
+  "type": "module"
 }
